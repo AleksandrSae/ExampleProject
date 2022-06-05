@@ -4,7 +4,7 @@ Google test example project is got from https://raymii.org/s/tutorials/Cpp_proje
 # Also
 here is the examples from https://github.com/sandordargo/parameterizedTestExamplesCpp in parametrized_test branch
 
-# To build adn run
+# To build and run
 
 $ git clone --recurse-submodules https://github.com/AleksandrSae/ExampleProject.git
 $ cd ExampleProject/
