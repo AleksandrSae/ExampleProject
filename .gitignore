@@ -1,0 +1,5 @@
+# Remove build folder
+build
+
+# Remove QT Editor properties
+CMakeLists.txt.user
