@@ -7,9 +7,15 @@ here is the examples from https://github.com/sandordargo/parameterizedTestExampl
 # To build and run
 
 $ git clone --recurse-submodules https://github.com/AleksandrSae/ExampleProject.git
-$ cd ExampleProject/
+
+$ cd ExampleProject
+
 $ git fetch origin parametrized_test:parametrized_test
+
 $ mkdir build
-$ cd build/
+
+$ cd build
+
 $ cmake ..
+
 $ ./tst/ExampleProject_tst
